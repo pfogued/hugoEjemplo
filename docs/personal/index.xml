@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: Web Site Pablo</title>
+    <link>https://example.org/personal/index.html</link>
+    <description>Sobre mi Esta página tiene la información sobre mi experiencia técinca&#xA;Este texto lo quiero en color rosa</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:27:21 +0200</lastBuildDate>
+    <atom:link href="https://example.org/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programacion</title>
+      <link>https://example.org/personal/01_programacion/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:27:21 +0200</pubDate>
+      <guid>https://example.org/personal/01_programacion/index.html</guid>
+      <description>Programacion Codigo de php&#xA;&lt;?php $a = rand(1,210); ?&gt;</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/personal/02_markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:27:06 +0200</pubDate>
+      <guid>https://example.org/personal/02_markdown/index.html</guid>
+      <description>Edicion basica titulos Para establecer los titulos usare la siguiente sintaxis&#xA;# titulo1 ## titulo2 ### titulo3 #### titulo4 y se verá&#xA;titulo1 titulo2 titulo3 titulo4 negrita y formato Para ver el texto en negrita escribo&#xA;**texto en negrita** texto normal y se vera&#xA;Texto en negrita texto normal&#xA;PHP es yn lenguaje interesante y bonito accede a la web</description>
+    </item>
+    <item>
+      <title>Mis aficiones</title>
+      <link>https://example.org/personal/03_aficiones/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:27:16 +0200</pubDate>
+      <guid>https://example.org/personal/03_aficiones/index.html</guid>
+      <description>aficiones Comentare lo que me gusta</description>
+    </item>
+  </channel>
+</rss>
